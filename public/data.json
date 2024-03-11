@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Exam Cell Hall Tickets",
+    "description": "Download hall tickets for exams.",
+    "link": "https://examcell.vercel.app/",
+    "photo": "images/nss.png"
+  },
+  {
+    "title": "NSS Unit of SIES GST",
+    "description": "Description for Module 1",
+    "link": "https://colderhold.github.io/nss.siesgst/index.html",
+    "photo": "images/nss.png"
+  },
+  {
+    "title": "Feedback Module",
+    "description": "Description for Module 2",
+    "link": "https://siesfeedback.vercel.app/",
+    "photo": "images/nss.png"
+  }
+]
